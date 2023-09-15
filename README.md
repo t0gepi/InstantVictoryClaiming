@@ -13,6 +13,6 @@ To use the script, you'll need the Tampermonkey browser addon. Tampermonkey is a
    - Follow the instructions to install the extension in your browser.
 
 2. **Install Userscript:**
-   - Click on the [Userscript link](link-to-your-userscript-file) on GitHub.
+   - Click on the [userscript.js](userscript.js).
    - Click the "Raw" button to view the script file.
    - Tampermonkey will recognize the script and prompt you to install it. Click "Install" to complete the installation.
